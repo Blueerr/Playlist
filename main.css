@@ -107,10 +107,10 @@ right: 0;
 
 .ytv {
 	position: fixed;
-  top: 0%;
+  top: 20%;
   left: 50%;
   /* bring your own prefixes */
-  transform: translate(-50%, -0%);
+  transform: translate(-50%, -50%);
 }
 
 .example-8 .navbar-brand {
